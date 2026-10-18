@@ -1,0 +1,7 @@
+data/
+__pycache__/
+*.pyc
+.env
+*.db3
+checkpoints/
+wandb/
